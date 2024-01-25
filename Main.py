@@ -1,4 +1,4 @@
-import re
+
 import random
 import requests
 characters = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-_'
