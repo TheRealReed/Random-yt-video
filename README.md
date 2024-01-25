@@ -13,3 +13,4 @@ It is a python script than gens random yt vids.
   - Random
   - Python (duh)
   - Requests
+  - pip/pip3
