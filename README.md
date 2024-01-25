@@ -7,6 +7,8 @@ It is a python script than gens random yt vids.
     - Add a yt video browser
   - 15 Stars
     - Add a yt shorts feature and yt shorts browser
+  - 20 Stars
+    - Increase search time
   - 30 Stars
     - Add threading    Please dont get to 30 stars, i dont want to do threading :(
 # Requirments
