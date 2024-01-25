@@ -9,3 +9,7 @@ It is a python script than gens random yt vids.
     - Add a yt shorts feature and yt shorts browser
   - 30 Stars
     - Add threading    Please dont get to 30 stars, i dont want to do threading :(
+# Requirments
+  - Random
+  - Python (duh)
+  - Requests
