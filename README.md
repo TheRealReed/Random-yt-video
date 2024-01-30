@@ -1,4 +1,4 @@
-# Random-yt-video
+# Random-yt-video (no longer work on the project bcuz nobody would star it)
 It is a python script than gens random yt vids.
 # TO-DO
   - 5 Stars
